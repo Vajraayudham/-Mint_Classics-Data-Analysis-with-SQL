@@ -1,7 +1,7 @@
-# Mint_Classics-Data-Analysis-with-SQL
+# `Mint_Classics-Data-Analysis-with-SQL`
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
 
-### Project Scenario 
+### `Project Scenario` 
 
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their
 storage facilities.
@@ -22,7 +22,7 @@ The answers to questions like those should help you to formulate suggestions and
 reducing inventory with the goal of closing one of the storage facilities. 
 
 
-### Project Objectives
+### `Project Objectives`
 
 1. Explore products currently in inventory.
 
@@ -30,5 +30,16 @@ reducing inventory with the goal of closing one of the storage facilities.
 
 3. Provide analytic insights and data-driven recommendations.
 
-### Extended Entity Relationship
+### `Extended Entity Relationship`
 ![image](https://github.com/Vajraayudham/-Mint_Classics-Data-Analysis-with-SQL/assets/86905678/5141aaed-745d-44a1-ac8b-e41cf4dd727d)
+
+
+### `Project Challenge`:
+
+Your challenge will be to conduct an exploratory data analysis to investigate if there are any patterns or
+themes that may influence the reduction or reorganization of inventory in the Mint Classics storage facilities.
+To do this, you will import the database and then analyze data. You will also pose questions, and seek to
+answer them meaningfully using SQL queries to retrieve data from the database provided.
+In this project, we'll use the fictional Mint Classics relational database and a relational data model. Both will
+be provided.
+After you perform your analysis, you will share your findings.
