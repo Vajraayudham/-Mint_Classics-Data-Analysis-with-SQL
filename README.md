@@ -1,3 +1,5 @@
+##### Source of this project is coursera - Link: https://www.coursera.org/learn/showcase-analyze-data-model-car-database-mysql-workbench/home/week/1
+
 # `Mint_Classics-Data-Analysis-with-SQL`
 Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
 
